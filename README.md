@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Olá, eu sou Renata👋 </h2>
-  
-Aqui publicarei minha evolução de aprendizagem das tecnologias para desenvolvimento Front-End. <br>
+ 
  
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
