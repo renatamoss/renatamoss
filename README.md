@@ -16,6 +16,7 @@
   I've also dedicated my time to studying UI/UX Designer, I'm loving it.🤍 <br/>
   Anyway, I'm excited about this journey of making life easier by creating utilitarian tools.
  </p>
+  <br/>
 
  <h4>
   ❤️ Currently developing on:
