@@ -11,12 +11,11 @@
   Hello, I'm Renata! Welcome!👋👩‍ 
  </h2>
 
- <p> 
+ <section> 
   I'm a Front-End Developer student from Brazil 🇧🇷. <br/>
   I've also dedicated my time to studying UI/UX Designer, I'm loving it.🤍 <br/>
   Anyway, I'm excited about this journey of making life easier by creating utilitarian tools.
- </p>
-  <br/>
+ </section><br/>
 
  <h4>
   ❤️ Currently developing on:
@@ -27,7 +26,7 @@
  <code><a href="https://sass-lang.com/" target="_blank"><img height="50" alt="Imagem SASS" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
  <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="_blank"><img height="50" alt="Imagem Javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
  <code><a href="https://vuejs.org/" target="_blank"><img height="50" alt="Imagem Vue" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a></code>
- <br/><br/>
+ <br/> <br/>
 
  <h4>
   ☕ We can talk about:
@@ -37,7 +36,7 @@
  <code><a href="https://www.figma.com/" target="_blank"><img height="50" alt="Imagem Figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
  <code><a href="https://www.gimp.org/" target="_blank"><img height="50" alt="Imagem Gimp" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></a></code>
  <code><a href="https://github.com/" target="_blank"><img height="50" alt="Imagem Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
- <br/><br/>
+ <br/> <br/>
 
  <h4>
   🤝 Reach me at:
@@ -63,10 +62,5 @@
    <img height="50" alt="Imagem Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
   </a>
  </image>
-  <br/><br/><br/>
-
-  <img style="width:50%" alt="Banner Renata Moss Instagram" 
-  src="https://user-images.githubusercontent.com/71418589/158079742-434b072b-6dfe-41c7-9f40-516daf84af3e.png">
-  <br/>
  
  </div>
