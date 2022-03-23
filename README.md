@@ -13,8 +13,7 @@
 
  <section> 
   I'm a Front-End Developer student from Brazil 🇧🇷. <br/>
-  I've also dedicated my time to studying UI/UX Designer, I'm loving it.🤍 <br/>
-  Anyway, I'm excited about this journey of making life easier by creating utilitarian tools.
+  I'm excited about this journey of making life easier by creating utilitarian tools.🤍
  </section><br/>
 
  <h4>
