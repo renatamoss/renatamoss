@@ -1,6 +1,4 @@
 <div align="left"> 
- <br/>
-
  <h2> 
   Hello, I'm Renata! Welcome!👋👩‍ 
  </h2>
