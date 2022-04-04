@@ -1,9 +1,3 @@
-<a href="https://renatamoss.vercel.app/" target="_blank">
- <img align="center" alt="Banner Renata Marques Home Page" 
- src="https://i.ibb.co/jvbBMwY/image-banner-page.png">
-</a>
-<br/>
-
 <div align="left"> 
  <br/>
 
@@ -31,11 +25,14 @@
   ☕ We can talk about:
  </h4>
 
- <code><a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img height="50" alt="Imagem Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
- <code><a href="https://www.figma.com/" target="_blank"><img height="50" alt="Imagem Figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
- <code><a href="https://www.gimp.org/" target="_blank"><img height="50" alt="Imagem Gimp" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></a></code>
- <code><a href="https://github.com/" target="_blank"><img height="50" alt="Imagem Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
- <br/> <br/>
+ <code><a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a href="https://www.figma.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
+<code><a href="https://www.gimp.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></a></code>
+<code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+<code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<br/><br/>
 
  <h4>
   🤝 Reach me at:
