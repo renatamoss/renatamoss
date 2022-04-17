@@ -5,7 +5,6 @@
 
  <section> 
   I'm a Front-End Developer student from Brazil 🇧🇷. <br/>
-  I'm excited about this journey of making life easier by creating utilitarian tools. <br/>
   I love working as a team and helping the dev community grow.🤍
  </section><br/>
  
