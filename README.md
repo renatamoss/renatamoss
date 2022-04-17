@@ -5,8 +5,12 @@
 
  <section> 
   I'm a Front-End Developer student from Brazil 🇧🇷. <br/>
-  I'm excited about this journey of making life easier by creating utilitarian tools.🤍
+  I'm excited about this journey of making life easier by creating utilitarian tools. <br/>
+  I love working as a team and helping the dev community grow.🤍
  </section><br/>
+ 
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamoss&langs_count=10&theme=graywhite&layout=compact" alt="Renata :: Top Langs" /></p>
+
 
  <h4>
   ❤️ Currently developing on:
@@ -56,5 +60,7 @@
    <img height="50" alt="Imagem Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
   </a>
  </image>
+ 
+
  
  </div>
