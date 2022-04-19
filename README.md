@@ -1,22 +1,22 @@
 <div align="left"> 
  <h2> 
-  Hello, I'm Renata! Welcome!👋👩‍ 
+  Hello, I'm Renata! Welcome!👋👩‍
  </h2>
 
  <section> 
-I'm currently a front-end developer student from Brazil 🇧🇷.<br/>
-I love to work in a team and help other people as I can.🤍<br/>
-My current goal is to deepen my knowledge in software engineering <br/>
-and impact the lives of others with innovative technology solutions.💡<br/>
+I'm currently a front-end developer from Brazil 🇧🇷.<br/>
+I love to work in a team and help other people as I can 🤍.<br/>
+My current goal is to deepen my knowledge in software engineering.<br/>
+I hope to be able to impact the lives of others with innovative technology solutions 💡.<br/>
 <br/>
 My interests:
 <br/>
-💻 Technology and innovation;<br/>
+💻 Programming and technology;<br/>
 🌎 Languages & travelling;<br/>
 🎹 Sheet music and piano;<br/>
 🐾 Cats;<br/>
 <br/>
-...always learning something new.🤓
+...always learning something new 🤓.
  </section><br/>
  
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamoss&langs_count=10&theme=graywhite&layout=compact" alt="Renata :: Top Langs" /></p>
