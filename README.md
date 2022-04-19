@@ -4,8 +4,19 @@
  </h2>
 
  <section> 
-  I'm a Front-End Developer student from Brazil 🇧🇷. <br/>
-  I love working as a team and helping the dev community grow.🤍
+I'm currently a front-end developer student from Brazil 🇧🇷.<br/>
+I love to work in a team and help other people as I can.🤍<br/>
+My current goal is to deepen my knowledge in software engineering <br/>
+and impact the lives of others with innovative technology solutions.💡<br/>
+<br/>
+My interests:
+<br/>
+💻 Technology and innovation;<br/>
+🌎 Languages & travelling;<br/>
+🎹 Sheet music and piano;<br/>
+🐾 Cats;<br/>
+<br/>
+...always learning something new.🤓
  </section><br/>
  
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamoss&langs_count=10&theme=graywhite&layout=compact" alt="Renata :: Top Langs" /></p>
@@ -55,7 +66,7 @@
   </a>
  </image>
  <image>
-  <a href="https://www.linkedin.com/in/renata-moss" target="_blank">
+  <a href="https://www.linkedin.com/in/renatamoss/" target="_blank">
    <img height="50" alt="Imagem Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
   </a>
  </image>
