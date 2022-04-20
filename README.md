@@ -6,14 +6,13 @@
  <section> 
 I'm currently a front-end developer from Brazil 🇧🇷.<br/>
 I love to work in a team and help other people as I can 🤍.<br/>
-My current goal is to deepen my knowledge in software engineering.<br/>
-I hope to be able to impact the lives of others with innovative technology solutions 💡.<br/>
+My current goal is to deepen my knowledge in software engineering💡.<br/>
 <br/>
 My interests:
 <br/>
-💻 Programming and technology;<br/>
+💻 Programming & technology;<br/>
 🌎 Languages & travelling;<br/>
-🎹 Sheet music and piano;<br/>
+🎹 Sheet music & piano;<br/>
 🐾 Cats;<br/>
 <br/>
 ...always learning something new 🤓.
