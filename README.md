@@ -3,13 +3,14 @@
   Hello, I'm Renata! Welcome!👋👩‍
  </h2>
 
- <section> 
-I'm currently a front-end developer from Brazil 🇧🇷.<br/>
+<section> 
+I'm currently a full stack designer and front-end developer from Brazil🇧🇷.<br/>
 I love to work in a team and help other people as I can 🤍.<br/>
 My current goal is to deepen my knowledge in software engineering💡.<br/>
 <br/>
 My interests:
 <br/>
+💎 UX/UI Designer & UX Writing;<br/>
 💻 Programming & technology;<br/>
 🌎 Languages & travelling;<br/>
 🎹 Sheet music & piano;<br/>
